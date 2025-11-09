@@ -89,7 +89,6 @@ def water_crop(crop, crop_to_water):
 			while get_water() < 0.7:
 				use_item(Items.Water)
 
-import Replacing_the_farmer.moveModule as moveModule
 
 def drone_ajudante():
 	while True:
